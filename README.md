@@ -58,3 +58,5 @@ Node Red / Front end link for the bot - https://node-red-karan.eu-gb.mybluemix.n
 
 Youtube link - https://youtu.be/maFgxPD5DRA
 
+
+Certificate link - https://smartinternz.com/internships/certificates/37bc2f75bf1bcfe8450a1a41c200364c
